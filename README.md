@@ -1,8 +1,16 @@
 # Revenue-Insights-Hospitality-
 This repo contains Power BI project
+
+
 Challenge Link: https://codebasics.io/
+
+
 Live Dashboard Link: https://www.novypro.com/project/revenue-insights-hospitality-domain-4
+
+
 ![Screenshot (204)](https://github.com/priyagupta52/Revenue-Insights-Hospitality-/assets/145066697/3eb172b6-81ad-4d3f-865b-f995eb2d9c07)
+
+
 
 **Problem statement**
 
